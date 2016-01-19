@@ -35,7 +35,7 @@ var app = {
     onDeviceReady: function() {
         app.receivedEvent('deviceready');
         var message = "hey dude";
-        applewatch.sendMessage(message);
+        //applewatch.sendMessage(message);
     },
     // Update DOM on a Received Event
     receivedEvent: function(id) {
