@@ -1,0 +1,10 @@
+{
+    "cordova-plugin-apple-watch": {
+        "source": {
+            "type": "registry",
+            "id": "cordova-plugin-apple-watch"
+        },
+        "is_top_level": true,
+        "variables": {}
+    }
+}
